@@ -1,10 +1,10 @@
-# Privacy Policy for Emiya Archery Journal
+# Privacy Policy for Target Archery Journal
 
 **Last Updated: January 2025**
 
 ## Introduction
 
-This Privacy Policy describes how Emiya Archery Journal ("we," "our," or "the app") collects, uses, and protects your information when you use our mobile application. We are committed to protecting your privacy and ensuring the security of your personal information.
+This Privacy Policy describes how Target Archery Journal ("we," "our," or "the app") collects, uses, and protects your information when you use our mobile application. We are committed to protecting your privacy and ensuring the security of your personal information.
 
 ## Information We Collect
 
@@ -76,7 +76,7 @@ We may disclose information only in the following circumstances:
 
 ## Children's Privacy
 
-Emiya Archery Journal is suitable for users of all ages. We do not knowingly collect personal information from children under 13 without parental consent. If you are a parent and believe your child has provided personal information, please contact us to have it removed.
+Target Archery Journal is suitable for users of all ages. We do not knowingly collect personal information from children under 13 without parental consent. If you are a parent and believe your child has provided personal information, please contact us to have it removed.
 
 ## International Users
 
@@ -128,8 +128,8 @@ This Privacy Policy complies with:
 
 ## Acknowledgment
 
-By using Emiya Archery Journal, you acknowledge that you have read and understood this Privacy Policy and agree to the collection and use of information in accordance with this policy.
+By using Target Archery Journal, you acknowledge that you have read and understood this Privacy Policy and agree to the collection and use of information in accordance with this policy.
 
 ---
 
-**Note**: This privacy policy is designed to be transparent about our minimal data collection practices. Since Emiya Archery Journal operates entirely offline and stores data locally on your device, your privacy is inherently protected.
+**Note**: This privacy policy is designed to be transparent about our minimal data collection practices. Since Target Archery Journal operates entirely offline and stores data locally on your device, your privacy is inherently protected.
